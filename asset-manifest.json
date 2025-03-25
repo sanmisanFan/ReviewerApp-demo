@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.5ccc7cde.css",
-    "main.js": "./static/js/main.3282eedf.js",
-    "static/js/453.d2f7dbdc.chunk.js": "./static/js/453.d2f7dbdc.chunk.js",
-    "static/media/pdf.worker.min.mjs": "./static/media/pdf.worker.min.684559269f7f63a32162.mjs",
-    "static/media/reviewerAPP_case1.pdf": "./static/media/reviewerAPP_case1.8850490850dcf0c26b7f.pdf",
-    "index.html": "./index.html",
-    "main.5ccc7cde.css.map": "./static/css/main.5ccc7cde.css.map",
-    "main.3282eedf.js.map": "./static/js/main.3282eedf.js.map",
-    "453.d2f7dbdc.chunk.js.map": "./static/js/453.d2f7dbdc.chunk.js.map"
+    "main.css": "/ReviewerApp-demo/static/css/main.5ccc7cde.css",
+    "main.js": "/ReviewerApp-demo/static/js/main.79d024bd.js",
+    "static/js/453.d2f7dbdc.chunk.js": "/ReviewerApp-demo/static/js/453.d2f7dbdc.chunk.js",
+    "static/media/pdf.worker.min.mjs": "/ReviewerApp-demo/static/media/pdf.worker.min.684559269f7f63a32162.mjs",
+    "static/media/reviewerAPP_case1.pdf": "/ReviewerApp-demo/static/media/reviewerAPP_case1.8850490850dcf0c26b7f.pdf",
+    "index.html": "/ReviewerApp-demo/index.html",
+    "main.5ccc7cde.css.map": "/ReviewerApp-demo/static/css/main.5ccc7cde.css.map",
+    "main.79d024bd.js.map": "/ReviewerApp-demo/static/js/main.79d024bd.js.map",
+    "453.d2f7dbdc.chunk.js.map": "/ReviewerApp-demo/static/js/453.d2f7dbdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ccc7cde.css",
-    "static/js/main.3282eedf.js"
+    "static/js/main.79d024bd.js"
   ]
 }
