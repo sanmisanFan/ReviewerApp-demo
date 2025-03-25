@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./ReviewerApp-demo/static/css/main.5ccc7cde.css",
-    "main.js": "./ReviewerApp-demo/static/js/main.873aa824.js",
-    "static/js/453.d2f7dbdc.chunk.js": "./ReviewerApp-demo/static/js/453.d2f7dbdc.chunk.js",
-    "index.html": "./ReviewerApp-demo/index.html",
-    "main.5ccc7cde.css.map": "./ReviewerApp-demo/static/css/main.5ccc7cde.css.map",
-    "main.873aa824.js.map": "./ReviewerApp-demo/static/js/main.873aa824.js.map",
-    "453.d2f7dbdc.chunk.js.map": "./ReviewerApp-demo/static/js/453.d2f7dbdc.chunk.js.map"
+    "main.css": "/ReviewerApp-demo/static/css/main.5ccc7cde.css",
+    "main.js": "/ReviewerApp-demo/static/js/main.086b1e0b.js",
+    "static/js/453.d2f7dbdc.chunk.js": "/ReviewerApp-demo/static/js/453.d2f7dbdc.chunk.js",
+    "index.html": "/ReviewerApp-demo/index.html",
+    "main.5ccc7cde.css.map": "/ReviewerApp-demo/static/css/main.5ccc7cde.css.map",
+    "main.086b1e0b.js.map": "/ReviewerApp-demo/static/js/main.086b1e0b.js.map",
+    "453.d2f7dbdc.chunk.js.map": "/ReviewerApp-demo/static/js/453.d2f7dbdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ccc7cde.css",
-    "static/js/main.873aa824.js"
+    "static/js/main.086b1e0b.js"
   ]
 }
